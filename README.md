@@ -12,5 +12,5 @@ Este é um projeto em Python que permite adicionar, listar e gerenciar tarefas d
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/meu-projeto.git
+   git clone https://github.com/Onnboy/Gerenciador-de-tarefas
    cd meu-projeto
